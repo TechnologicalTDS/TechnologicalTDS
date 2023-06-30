@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TechnologicalTDS
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Ethical Hacking
+- Hi, I’m @TechnologicalTDS
+- I’m interested in Cyber Security
+- I’m currently learning Ethical Hacking
+- I'm currently learning WEbsite Development
 
-<!---
-TechnologicalTDS/TechnologicalTDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My goal is to financially benefit from my passion of coding and to create a Cyber Security business better than anything compared
+
+
